@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 PHONE, ADD_PRODUCT_PHOTO, ADD_PRODUCT_NAME, ADD_PRODUCT_PRICE, ADD_PRODUCT_DESC, REJECT_REASON, BROADCAST_MESSAGE = range(7)
 
 # Konfiguratsiya
-CHANNEL_ID = "@hayotritmi"  # O'zingizning kanalingiz
+CHANNEL_ID = "@hayotritmi07"  # O'zingizning kanalingiz
 ADMIN_IDS = [7345368822]  # Admin ID larini kiriting
 BOT_TOKEN = "8128930362:AAEdJrMNEJ0PHJpRR-rhCtODMfSx3N9sXSI"  # Bot tokenini kiriting
 
